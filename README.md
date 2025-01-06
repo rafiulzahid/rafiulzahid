@@ -15,7 +15,7 @@
 
 📫 **How to Reach Me:**  
 - 💌 Email: rafiulofficial18@gmail.com
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/rafiul-rabbi-zahid-39980a234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
+- 💼 LinkedIn: [[Rafiul Rabbi Zahid](https://www.linkedin.com/in/rafiul-rabbi-zahid-39980a234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)  
 
 🧑‍💻 **Pronouns:** He/Him  
 ⚡ **Fun Fact:** When I’m not expert in coding, you’ll find me debating, exploring my documentation, or sketching my next big idea!  
