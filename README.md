@@ -6,7 +6,7 @@
 💻 **What I’m Learning Now:**  
 - Building smart systems with **ESP32** and **sensors**  
 - Developing intelligent models with **Python** and **ML frameworks**  
-- Crafting web dashboards using **FastAPI** and **React**  
+ 
 
 🤝 **Looking to Collaborate On:**  
 - IoT-based **smart agriculture projects**  
