@@ -1,4 +1,4 @@
-👋 Hi, I’m **Rafiul Rabbi Zahid** (@rafiulrabbizahid)  
+👋 Hi, I’m **Rafiul Rabbi Zahid** (@rafiulzahid)  
 🌟 I'm an aspiring **IoT Engineer**  
 🐍 I'm currently diving deep into **Python**, **Machine Learning**, and **IoT Systems**  
 🌱 I’m passionate about blending **Technology and Agriculture** to create impactful solutions  
